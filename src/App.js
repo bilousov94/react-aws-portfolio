@@ -5,6 +5,8 @@ import './style/main.scss';
 import Hero from './components/Hero';
 import About from './components/About';
 import TestSkills from './components/TestSkills';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
         <Hero/>
         <About/>
         <TestSkills/>
+        <Contact/>
+        <Footer/>
     </div>
   );
 }

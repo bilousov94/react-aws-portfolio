@@ -36,7 +36,7 @@ const TestSkills = () => {
                                             distance="30px"
                                             key={index}
                                         >
-                                            <Row>
+                                            <Row className="row-margin">
                                                 {
                                                     row.map(skill => {
                                                         return (
