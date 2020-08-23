@@ -7,11 +7,11 @@ import SkillBubble from './partials/SkillBubble';
 import Title from './partials/Title';
 
 const TestSkills = () => {
-    const skills = awsSkills;
 
     const [rows, addRow] = useState([]);
 
     useEffect(() => {
+        const skills = awsSkills;
 
         while (skills.length > 0) {
             addRow(rows.push(skills.splice(0,3)))

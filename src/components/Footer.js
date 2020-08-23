@@ -17,6 +17,7 @@ const Footer = () => {
                         href="https://github.com/bilousov94"
                         target="_blank"
                         aria-label="github"
+                        rel="noopener noreferrer"
                     >
                         <i className="fa fa-github fa-inverse" />
                     </a>
@@ -24,6 +25,7 @@ const Footer = () => {
                         href="https://www.linkedin.com/in/valentyn-bilousov/"
                         target="_blank"
                         aria-label="linkedin"
+                        rel="noopener noreferrer"
                     >
                         <i className="fa fa-linkedin fa-inverse" />
                     </a>
@@ -31,6 +33,7 @@ const Footer = () => {
                         href="https://medium.com/@valentynbilousov"
                         target="_blank"
                         aria-label="medium"
+                        rel="noopener noreferrer"
                     >
                         <i className="fa fa-medium fa-inverse" />
                     </a>

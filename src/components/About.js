@@ -38,13 +38,15 @@ const About = () => {
                         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
                             <div className="about-wrapper__info">
                                 <p className="about-wrapper__info-text">
-                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.
+                                   Hi, I am Valentyn Bilousov, Full Stack developer with a passion for new technologies.
                                 </p>
                                 <p className="about-wrapper__info-text">
-                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.
+                                    My main backend experience includes design and development of APIs in Python and NodeJS programming languages, set up AWS infrastructure for it and monitoring
+                                    logs. Moved some functionality from PHP website to new approach using AWS. Built library using AWS PHP SDK to work with different services.
                                 </p>
                                 <p className="about-wrapper__info-text">
-                                   'Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                                   My front end experience is to building responsive UI solutions for multiple websites on React and Angular frameworks. My experience also includes working
+                                   on mobile app development, using ionic V5, Angular 9 and NGRX frameworks.
                                 </p>
 
                                 <span className="d-flex mt-3">
